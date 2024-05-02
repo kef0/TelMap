@@ -8,7 +8,7 @@ You can use multiple coordinates to scan a large size, for this you need to crea
 
 At the end of the scan, the script will create a text file with the information.
 
-![image](https://github.com/kef0/TelMap/assets/45327810/da4a0b1b-7bd6-44d1-8876-980921df58bb)
+![image](https://github.com/kef0/TelMap/assets/45327810/c4cf8b1b-f288-4eb7-9d44-5fa81e456771)
 
 ## Install:
 1. git clone https://github.com/kef0/TelMap.git
