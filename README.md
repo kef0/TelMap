@@ -9,3 +9,8 @@ You can use multiple coordinates to scan a large size, for this you need to crea
 At the end of the scan, the script will create a text file with the information.
 
 ![image](https://github.com/kef0/TelMap/assets/45327810/94ce40a2-d723-411b-bf54-c87d6f0db854)
+
+## Install:
+1. git clone https://github.com/kef0/TelMap.git
+2. cd TelMap && pip install -r requirements.txt
+3. python TelMap_scan.py
